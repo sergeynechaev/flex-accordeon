@@ -1,11 +1,11 @@
 {
-  "name": "weblayout-template",
+  "name": "flex-accordeon",
   "version": "0.1.0",
-  "description": "Starter template for building a web layout using gulp, sass and jade",
+  "description": "Accordeon sidebar menu using only CSS flexbox",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sergeynechaev/weblayout-template.git"
+    "url": "https://github.com/sergeynechaev/flex-accordeon.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,5 +1,5 @@
-# Weblayout template
-	Starter template for building a web layout.
+# Flex accordeon
+	Accordeon sidebar menu using only CSS flexbox
 > gulp + sass + jade
 
 
@@ -7,7 +7,7 @@
 
 Clone this repo into your local:
 ```shell
-git clone --depth=1 https://github.com/sergeynechaev/weblayout-template.git <your-project-name>
+git clone --depth=1 https://github.com/sergeynechaev/flex-accordeon.git <your-project-name>
 ```
 
 Then, run:
