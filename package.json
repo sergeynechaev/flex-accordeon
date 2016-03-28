@@ -1,11 +1,11 @@
 {
-  "name": "flex-accordeon",
+  "name": "flex-accordion",
   "version": "0.1.0",
-  "description": "Accordeon sidebar menu using only CSS flexbox",
+  "description": "Accordion sidebar menu using only CSS flexbox",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sergeynechaev/flex-accordeon.git"
+    "url": "https://github.com/sergeynechaev/flex-accordion.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
